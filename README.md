@@ -33,4 +33,4 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 ---
 
 ### Considerações Finais
-Me desafiei e me diverti muito realzando este desafio prosposto pela plataforma Digital Innovation One, é um desafio  relativamente facil porem que exige muito foco para que possa ser completo.
+Me desafiei e me diverti muito realizando este desafio proposto pela plataforma Digital Innovation One, é um desafio relativamente fácil porem que exige muito foco para que possa ser completo.
